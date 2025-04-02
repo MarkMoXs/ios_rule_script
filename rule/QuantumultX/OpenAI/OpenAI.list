@@ -29,6 +29,7 @@ HOST-SUFFIX,host.livekit.cloud,OpenAI
 HOST-SUFFIX,identrust.com,OpenAI
 HOST-SUFFIX,intercom.io,OpenAI
 HOST-SUFFIX,intercomcdn.com,OpenAI
+host-suffix,ios.chat.openai.com,OpenAI
 HOST-SUFFIX,launchdarkly.com,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
